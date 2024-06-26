@@ -1,0 +1,13 @@
+h1{
+    color:red;
+}
+body{
+    background-color: black;
+}
+div>p{
+    color: white;
+}
+div{
+    display: flex;
+    justify-content: space-between;
+}
